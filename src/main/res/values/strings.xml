@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- this is only here because the tools were failing without resources present. -->
+</resources>
